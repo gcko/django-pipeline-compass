@@ -9,7 +9,7 @@
 ## Installation
 
 ```
-pip install git+https://github.com/mila-labs/django-pipeline-compass.git
+pip install git+https://github.com/gcko/django-pipeline-compass.git
 ```
 
 ## Usage
